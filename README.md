@@ -1,5 +1,7 @@
-# Getting Started
+# A react project starter that has React + Prettier + Husky + Json-server
 
+
+# Getting Started
 
 In the project directory, you can run:
 
